@@ -2,8 +2,8 @@
 Submission for Evil Geniuses Data Scientist assessment. 
 
 #### Table of Contents
-* [EDA](#data)
-* [ETL](#endpoints)  
+* [EDA](#eda)
+* [ETL](#etl)  
 * [Model](#model)
 * [Results](#results)
 
@@ -26,13 +26,13 @@ Submission for Evil Geniuses Data Scientist assessment.
 ```
 
 ### EDA
-Please see notebooks/1-EDA.ipynb for the exploratory data analysis and documentation of decision making. 
+Please see [notebooks/1-EDA.ipynb](https://github.com/isacmlee/EG-ds-assessment/blob/main/notebooks/1-EDA.ipynb) for the exploratory data analysis and documentation of decision making. 
 
 ### ETL
-Please see notebooks/2-ETL.ipynb for data preprocessing and transformation documentation and walkthrough. 
+Please see [notebooks/2-ETL.ipynb](https://github.com/isacmlee/EG-ds-assessment/blob/main/notebooks/2-ETL.ipynb) for data preprocessing and transformation documentation and walkthrough. 
 
 ### Model
-Please see notebooks/3-Model.ipynb for feature selection, model training, and model comparisions. 
+Please see [notebooks/3-Model.ipynb](https://github.com/isacmlee/EG-ds-assessment/blob/main/notebooks/3-Model.ipynb) for feature selection, model training, and model comparisions. 
 
 ### Results 
 In this project, our goal was to predict a StarCraft 2 player's rank using performance data within games and compared 3 classifier models to do so: 
