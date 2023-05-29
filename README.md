@@ -22,7 +22,9 @@ Submission for Evil Geniuses Data Scientist assessment.
 │   │
 │   ├── models          <- Script to train models and serialize.
 │   │   ├── build_model.py
-├── README.md              <- Report for users/stakeholders.
+|
+├── EG - Report - Isac Lee.pdf              <- Report for users/stakeholders in pdf form.
+├── README.md              <- Report for users/stakeholders in markdown form.
 ```
 
 ### EDA
